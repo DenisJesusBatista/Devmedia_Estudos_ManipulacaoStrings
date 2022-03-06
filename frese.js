@@ -1,6 +1,6 @@
 let frase = "Aprender JavaScript é gratificante! A linguagem JavaScript é bastante requisitada no mercado de trabalho";
 
-frase.replace("JavaScript", "JS");
+frase = frase.replace("JavaScript", "JS");
 
 
 console.log(frase);
